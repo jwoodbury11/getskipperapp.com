@@ -1,0 +1,17 @@
+title: Skipper
+description: AI-powered call assistant that navigates phone menus and waits on hold for you
+url: https://getskipperapp.com
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
