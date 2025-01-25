@@ -93,6 +93,24 @@ California residents have specific rights regarding their personal information u
 
 Our Service may use cookies and similar tracking technologies to enhance your experience. You can control cookie preferences through your browser settings.
 
+## Data Deletion
+
+When you delete your account or uninstall our app:
+- Your personal information will be permanently deleted within 30 days
+- Call recordings and transcripts are deleted immediately
+- Any pending transactions will be completed before account deletion
+- Certain information may be retained if required by law or for legitimate business purposes
+
+To delete your account:
+1. Go to Profile Settings in the app
+2. Select "Delete Account"
+3. Confirm your choice
+4. Your data will be scheduled for deletion
+
+## App Tracking Transparency
+
+Skipper does not track your activity across other companies' apps and websites. We only use your data to provide and improve our direct services to you. You can verify this in your iOS device settings under Privacy & Security > Tracking.
+
 ## Contact Us
 
 If you have questions about this Privacy Policy, please contact us at:
