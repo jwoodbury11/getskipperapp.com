@@ -118,5 +118,3 @@ If you have questions about this Privacy Policy, please contact us at:
 Email: privacy@getskipperapp.com
 
 Skipper
-219 Cumberland St, Apt 5
-San Francisco, CA 94114
