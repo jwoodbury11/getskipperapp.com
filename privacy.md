@@ -117,4 +117,30 @@ If you have questions about this Privacy Policy, please contact us at:
 
 Email: privacy@getskipperapp.com
 
+## Subscription and Payment Data
+
+### Subscription Status
+- Your subscription status is stored securely in our systems
+- We process this information to provide access to premium features
+- Subscription status is synchronized with Apple's servers
+- We retain subscription records for accounting and legal compliance
+
+### Payment Processing
+- All payments are processed through Apple's App Store
+- We do not directly collect or store your payment information
+- Your payment details are handled entirely by Apple
+- We receive only subscription status updates from Apple
+
+### In-App Purchase Data
+- We collect minimal data about your subscription type and status
+- Purchase history is maintained for customer support purposes
+- Transaction IDs are stored to verify subscription status
+- No credit card or payment details are stored on our servers
+
+### Data Access and Retention
+- Active subscribers have full access to their call history and data
+- If your subscription expires, data access may be limited
+- You can request export of your data at any time
+- Data retention follows our standard privacy practices
+
 Skipper
